@@ -1,0 +1,217 @@
+Quarter_year,Date,Security_type,Maturity,Units,Auction_month,Auction_date,Offered_amount,Data_type,Notes
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-05,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-05,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-05,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-05,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-05,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-05,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-05,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-05,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-06,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-06,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-06,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-06,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-06,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-06,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-06,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-06,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-07,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-07,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-07,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-07,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-07,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-07,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-07,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-07,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-08,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-08,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-08,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-08,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-08,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-08,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-08,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-08,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-09,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-09,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-09,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-09,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-09,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-09,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-09,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-09,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-10,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-10,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-10,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-10,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-10,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-10,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-10,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-10,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-09,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-09,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-09,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-09,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-09,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-09,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-09,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,TIPS,10.0,YEARS,2025-09,,19.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,FRN,2.0,YEARS,2025-09,,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-10,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-10,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-10,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-10,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-10,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-10,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-10,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,TIPS,5.0,YEARS,2025-10,,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,FRN,2.0,YEARS,2025-10,,30.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-02,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-02,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-02,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-02,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-02,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-02,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-02,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-02,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-03,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-03,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-03,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-03,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-03,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-03,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-03,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-03,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-04,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-04,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-04,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-04,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-04,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-04,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-04,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-04,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-05,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-05,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-05,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-05,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-05,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-05,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-05,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-05,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-06,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-06,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-06,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-06,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-06,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-06,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-06,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-06,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-07,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-07,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-07,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-07,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-07,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-07,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-07,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-07,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-06,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-06,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-06,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-06,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-06,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-06,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-06,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,TIPS,5.0,YEARS,2025-06,,23.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,FRN,2.0,YEARS,2025-06,,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-07,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-07,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-07,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-07,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-07,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-07,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-07,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,TIPS,10.0,YEARS,2025-07,,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,FRN,2.0,YEARS,2025-07,,30.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2024-11,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2024-11,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2024-11,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2024-11,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2024-11,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2024-11,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2024-11,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,FRN,,,2024-11,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2024-12,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2024-12,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2024-12,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2024-12,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2024-12,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2024-12,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2024-12,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,FRN,,,2024-12,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-01,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-01,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-01,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-01,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-01,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-01,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-01,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,FRN,,,2025-01,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-02,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-02,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-02,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-02,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-02,,42.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-02,,16.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-02,,25.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,FRN,,,2025-02,,28.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-03,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-03,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-03,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-03,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-03,,39.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-03,,13.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-03,,22.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,FRN,,,2025-03,,28.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-04,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-04,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-04,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-04,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-04,,39.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-04,,13.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-04,,22.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,FRN,,,2025-04,,30.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-03,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-03,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-03,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-03,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-03,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-03,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-03,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,TIPS,10.0,YEARS,2025-03,,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,FRN,2.0,YEARS,2025-03,,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-04,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-04,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-04,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-04,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-04,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-04,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-04,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,TIPS,5.0,YEARS,2025-04,,25.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,FRN,2.0,YEARS,2025-04,,30.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,NOTE,2.0,YEARS,2024-12,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,NOTE,3.0,YEARS,2024-12,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,NOTE,5.0,YEARS,2024-12,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,NOTE,7.0,YEARS,2024-12,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,NOTE,10.0,YEARS,2024-12,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,BOND,20.0,YEARS,2024-12,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,BOND,30.0,YEARS,2024-12,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,TIPS,5.0,YEARS,2024-12,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,FRN,2.0,YEARS,2024-12,,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,NOTE,2.0,YEARS,2025-01,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,NOTE,3.0,YEARS,2025-01,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,NOTE,5.0,YEARS,2025-01,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,NOTE,7.0,YEARS,2025-01,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,NOTE,10.0,YEARS,2025-01,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,BOND,20.0,YEARS,2025-01,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,BOND,30.0,YEARS,2025-01,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,TIPS,10.0,YEARS,2025-01,,20.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q4 2024,2024-10-30,FRN,2.0,YEARS,2025-01,,30.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
