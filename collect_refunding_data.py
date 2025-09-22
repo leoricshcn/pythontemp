@@ -1,4 +1,5 @@
 import argparse
+
 import csv
 import io
 import re
@@ -19,6 +20,7 @@ OFFICIAL_REMARKS_URL = (
     "quarterly-refunding/quarterly-refunding-archives/official-remarks-on-quarterly-refunding-by-calendar-year"
 )
 DEFAULT_MAX_QUARTERS = 23
+
 
 
 def ordinal_to_int(text: str) -> Optional[int]:
@@ -50,6 +52,7 @@ def extract_quarter_links(page_url: str) -> Dict[Tuple[int, int], str]:
         table_links = _parse_quarter_link_table(table)
         for key, url in table_links.items():
             links[key] = url
+
     return links
 
 
@@ -191,6 +194,7 @@ def parse_recommended_pdf(pdf_bytes: bytes, quarter: int, year: int, announcemen
             results.extend(matrix_entries)
             return results
         text = "\n".join(page.extract_text(layout=True) or "" for page in pages)
+
     lines = [line.strip() for line in text.splitlines() if line.strip()]
     pattern = re.compile(
         r"^(?P<security>[A-Za-z0-9/\-\(\)\s]+?)\s+"
@@ -445,6 +449,7 @@ def main() -> None:
     entries = collect_data(max_quarters=args.max_quarters)
     write_csv(entries, args.output)
     print(f"Wrote {len(entries)} rows to {args.output}")
+
 
 
 if __name__ == "__main__":

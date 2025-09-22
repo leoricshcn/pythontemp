@@ -131,6 +131,204 @@ Q2 2025,2025-02-05,BOND,20.0,YEARS,2025-07,,13.0,RECOMMENDATION_FOR_THIS_REFUNDI
 Q2 2025,2025-02-05,BOND,30.0,YEARS,2025-07,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
 Q2 2025,2025-02-05,TIPS,10.0,YEARS,2025-07,,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
 Q2 2025,2025-02-05,FRN,2.0,YEARS,2025-07,,30.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-05,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-05,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-05,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-05,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-05,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-05,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-05,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-05,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-06,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-06,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-06,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-06,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-06,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-06,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-06,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-06,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-07,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-07,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-07,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-07,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-07,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-07,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-07,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-07,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-08,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-08,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-08,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-08,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-08,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-08,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-08,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-08,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-09,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-09,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-09,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-09,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-09,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-09,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-09,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-09,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-10,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-10,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-10,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-10,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-10,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-10,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-10,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,FRN,,,2025-10,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-09,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-09,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-09,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-09,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-09,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-09,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-09,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,TIPS,10.0,YEARS,2025-09,,19.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,FRN,2.0,YEARS,2025-09,,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,2.0,YEARS,2025-10,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,3.0,YEARS,2025-10,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,5.0,YEARS,2025-10,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,7.0,YEARS,2025-10,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,NOTE,10.0,YEARS,2025-10,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,BOND,20.0,YEARS,2025-10,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,BOND,30.0,YEARS,2025-10,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,TIPS,5.0,YEARS,2025-10,,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q3 2025,2025-07-30,FRN,2.0,YEARS,2025-10,,30.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-02,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-02,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-02,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-02,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-02,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-02,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-02,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-02,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-03,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-03,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-03,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-03,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-03,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-03,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-03,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-03,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-04,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-04,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-04,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-04,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-04,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-04,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-04,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-04,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-05,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-05,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-05,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-05,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-05,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-05,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-05,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-05,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-06,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-06,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-06,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-06,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-06,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-06,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-06,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-06,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-07,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-07,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-07,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-07,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-07,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-07,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-07,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,FRN,,,2025-07,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-06,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-06,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-06,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-06,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-06,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-06,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-06,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,TIPS,5.0,YEARS,2025-06,,23.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,FRN,2.0,YEARS,2025-06,,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,2.0,YEARS,2025-07,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,3.0,YEARS,2025-07,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,5.0,YEARS,2025-07,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,7.0,YEARS,2025-07,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,NOTE,10.0,YEARS,2025-07,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,BOND,20.0,YEARS,2025-07,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,BOND,30.0,YEARS,2025-07,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,TIPS,10.0,YEARS,2025-07,,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q2 2025,2025-04-30,FRN,2.0,YEARS,2025-07,,30.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2024-11,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2024-11,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2024-11,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2024-11,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2024-11,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2024-11,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2024-11,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,FRN,,,2024-11,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2024-12,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2024-12,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2024-12,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2024-12,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2024-12,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2024-12,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2024-12,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,FRN,,,2024-12,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-01,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-01,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-01,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-01,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-01,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-01,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-01,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,FRN,,,2025-01,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-02,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-02,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-02,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-02,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-02,,42.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-02,,16.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-02,,25.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,FRN,,,2025-02,,28.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-03,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-03,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-03,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-03,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-03,,39.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-03,,13.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-03,,22.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,FRN,,,2025-03,,28.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-04,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-04,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-04,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-04,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-04,,39.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-04,,13.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-04,,22.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,FRN,,,2025-04,,30.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-03,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-03,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-03,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-03,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-03,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-03,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-03,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,TIPS,10.0,YEARS,2025-03,,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,FRN,2.0,YEARS,2025-03,,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,2.0,YEARS,2025-04,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,3.0,YEARS,2025-04,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,5.0,YEARS,2025-04,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,7.0,YEARS,2025-04,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,NOTE,10.0,YEARS,2025-04,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,BOND,20.0,YEARS,2025-04,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,BOND,30.0,YEARS,2025-04,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,TIPS,5.0,YEARS,2025-04,,25.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
+Q1 2025,2025-02-05,FRN,2.0,YEARS,2025-04,,30.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
 Q4 2024,2024-10-30,NOTE,2.0,YEARS,2024-12,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
 Q4 2024,2024-10-30,NOTE,3.0,YEARS,2024-12,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
 Q4 2024,2024-10-30,NOTE,5.0,YEARS,2024-12,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
@@ -149,554 +347,3 @@ Q4 2024,2024-10-30,BOND,20.0,YEARS,2025-01,,13.0,RECOMMENDATION_FOR_THIS_REFUNDI
 Q4 2024,2024-10-30,BOND,30.0,YEARS,2025-01,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
 Q4 2024,2024-10-30,TIPS,10.0,YEARS,2025-01,,20.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
 Q4 2024,2024-10-30,FRN,2.0,YEARS,2025-01,,30.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,NOTE,2.0,YEARS,2024-05,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,3.0,YEARS,2024-05,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,5.0,YEARS,2024-05,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,7.0,YEARS,2024-05,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,10.0,YEARS,2024-05,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,BOND,20.0,YEARS,2024-05,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,BOND,30.0,YEARS,2024-05,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,FRN,,,2024-05,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,2.0,YEARS,2024-06,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,3.0,YEARS,2024-06,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,5.0,YEARS,2024-06,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,7.0,YEARS,2024-06,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,10.0,YEARS,2024-06,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,BOND,20.0,YEARS,2024-06,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,BOND,30.0,YEARS,2024-06,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,FRN,,,2024-06,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,2.0,YEARS,2024-07,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,3.0,YEARS,2024-07,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,5.0,YEARS,2024-07,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,7.0,YEARS,2024-07,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,10.0,YEARS,2024-07,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,BOND,20.0,YEARS,2024-07,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,BOND,30.0,YEARS,2024-07,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,FRN,,,2024-07,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q3 2024,2024-07-31,NOTE,2.0,YEARS,2024-08,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,3.0,YEARS,2024-08,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,5.0,YEARS,2024-08,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,7.0,YEARS,2024-08,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,10.0,YEARS,2024-08,,42.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,BOND,20.0,YEARS,2024-08,,16.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,BOND,30.0,YEARS,2024-08,,25.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,FRN,,,2024-08,,28.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,2.0,YEARS,2024-09,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,3.0,YEARS,2024-09,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,5.0,YEARS,2024-09,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,7.0,YEARS,2024-09,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,10.0,YEARS,2024-09,,39.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,BOND,20.0,YEARS,2024-09,,13.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,BOND,30.0,YEARS,2024-09,,22.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,FRN,,,2024-09,,28.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,2.0,YEARS,2024-10,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,3.0,YEARS,2024-10,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,5.0,YEARS,2024-10,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,7.0,YEARS,2024-10,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,10.0,YEARS,2024-10,,39.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,BOND,20.0,YEARS,2024-10,,13.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,BOND,30.0,YEARS,2024-10,,22.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,FRN,,,2024-10,,30.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q3 2024,2024-07-31,NOTE,2.0,YEARS,2024-09,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,NOTE,3.0,YEARS,2024-09,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,NOTE,5.0,YEARS,2024-09,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,NOTE,7.0,YEARS,2024-09,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,NOTE,10.0,YEARS,2024-09,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,BOND,20.0,YEARS,2024-09,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,BOND,30.0,YEARS,2024-09,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,TIPS,10.0,YEARS,2024-09,,17.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,FRN,2.0,YEARS,2024-09,,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,NOTE,2.0,YEARS,2024-10,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,NOTE,3.0,YEARS,2024-10,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,NOTE,5.0,YEARS,2024-10,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,NOTE,7.0,YEARS,2024-10,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,NOTE,10.0,YEARS,2024-10,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,BOND,20.0,YEARS,2024-10,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,BOND,30.0,YEARS,2024-10,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,TIPS,5.0,YEARS,2024-10,,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q3 2024,2024-07-31,FRN,2.0,YEARS,2024-10,,30.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,NOTE,2.0,YEARS,2024-02,,63.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,3.0,YEARS,2024-02,,54.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,5.0,YEARS,2024-02,,64.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,7.0,YEARS,2024-02,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,10.0,YEARS,2024-02,,42.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,BOND,20.0,YEARS,2024-02,,16.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,BOND,30.0,YEARS,2024-02,,25.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,FRN,,,2024-02,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,2.0,YEARS,2024-03,,66.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,3.0,YEARS,2024-03,,56.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,5.0,YEARS,2024-03,,67.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,7.0,YEARS,2024-03,,43.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,10.0,YEARS,2024-03,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,BOND,20.0,YEARS,2024-03,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,BOND,30.0,YEARS,2024-03,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,FRN,,,2024-03,,28.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,2.0,YEARS,2024-04,,69.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,3.0,YEARS,2024-04,,58.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,5.0,YEARS,2024-04,,70.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,7.0,YEARS,2024-04,,44.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,10.0,YEARS,2024-04,,39.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,BOND,20.0,YEARS,2024-04,,13.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,BOND,30.0,YEARS,2024-04,,22.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,FRN,,,2024-04,,30.0,HISTORICAL_REFERENCE,Actual auction size from prior quarter
-Q2 2024,2024-05-01,NOTE,2.0,YEARS,2024-05,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,3.0,YEARS,2024-05,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,5.0,YEARS,2024-05,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,7.0,YEARS,2024-05,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,10.0,YEARS,2024-05,,42.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,BOND,20.0,YEARS,2024-05,,16.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,BOND,30.0,YEARS,2024-05,,25.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,FRN,,,2024-05,,28.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,2.0,YEARS,2024-06,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,3.0,YEARS,2024-06,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,5.0,YEARS,2024-06,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,7.0,YEARS,2024-06,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,10.0,YEARS,2024-06,,39.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,BOND,20.0,YEARS,2024-06,,13.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,BOND,30.0,YEARS,2024-06,,22.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,FRN,,,2024-06,,28.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,2.0,YEARS,2024-07,,69.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,3.0,YEARS,2024-07,,58.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,5.0,YEARS,2024-07,,70.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,7.0,YEARS,2024-07,,44.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,10.0,YEARS,2024-07,,39.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,BOND,20.0,YEARS,2024-07,,13.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,BOND,30.0,YEARS,2024-07,,22.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,FRN,,,2024-07,,30.0,INDICATIONS_FOR_NEXT_REFUNDING,Projected auction size from official remarks table
-Q2 2024,2024-05-01,NOTE,2.0,YEARS,2024-06,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,NOTE,3.0,YEARS,2024-06,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,NOTE,5.0,YEARS,2024-06,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,NOTE,7.0,YEARS,2024-06,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,NOTE,10.0,YEARS,2024-06,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,BOND,20.0,YEARS,2024-06,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,BOND,30.0,YEARS,2024-06,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,TIPS,5.0,YEARS,2024-06,,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,FRN,2.0,YEARS,2024-06,,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,NOTE,2.0,YEARS,2024-07,,69.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,NOTE,3.0,YEARS,2024-07,,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,NOTE,5.0,YEARS,2024-07,,70.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,NOTE,7.0,YEARS,2024-07,,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,NOTE,10.0,YEARS,2024-07,,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,BOND,20.0,YEARS,2024-07,,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,BOND,30.0,YEARS,2024-07,,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,TIPS,10.0,YEARS,2024-07,,19.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q2 2024,2024-05-01,FRN,2.0,YEARS,2024-07,,30.0,RECOMMENDATION_FOR_THIS_REFUNDING,TBAC recommended financing table (matrix format)
-Q1 2024,2024-01-31,BILL,,,,,467.6,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q1 2024,2024-01-31,BOND,20.0,YEARS,2024-01,2024-01-02,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2024,2024-01-31,NOTE,2.0,YEARS,2024-01,2024-01-02,57.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,5.0,YEARS,2024-01,2024-01-02,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,7.0,YEARS,2024-01,2024-01-02,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,3.0,YEARS,2024-01,2024-01-16,52.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,10.0,YEARS,2024-01,2024-01-16,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2024,2024-01-31,BOND,30.0,YEARS,2024-01,2024-01-16,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2024,2024-01-31,BOND,20.0,YEARS,2024-01,2024-01-31,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2024,2024-01-31,TIPS,10.0,YEARS,2024-01,2024-01-31,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,2.0,YEARS,2024-01,2024-01-31,60.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,FRN,2.0,YEARS,2024-01,2024-01-31,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,5.0,YEARS,2024-01,2024-01-31,61.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,7.0,YEARS,2024-01,2024-01-31,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,3.0,YEARS,2024-02,2024-02-15,54.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,10.0,YEARS,2024-02,2024-02-15,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,BOND,30.0,YEARS,2024-02,2024-02-15,27.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,FRN,2.0,YEARS,2024-02,2024-02-23,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2024,2024-01-31,BOND,20.0,YEARS,2024-02,2024-02-29,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,TIPS,30.0,YEARS,2024-02,2024-02-29,10.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,2.0,YEARS,2024-02,2024-02-29,63.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,5.0,YEARS,2024-02,2024-02-29,64.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,7.0,YEARS,2024-02,2024-02-29,42.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,3.0,YEARS,2024-03,2024-03-15,56.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2024,2024-01-31,NOTE,10.0,YEARS,2024-03,2024-03-15,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2024,2024-01-31,BOND,30.0,YEARS,2024-03,2024-03-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2024,2024-01-31,TIPS,10.0,YEARS,2024-03,2024-03-28,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2023,2023-11-01,BILL,,,,,513.45,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q4 2023,2023-11-01,BOND,20.0,YEARS,2023-10,2023-10-02,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2023,2023-11-01,NOTE,2.0,YEARS,2023-10,2023-10-02,46.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,5.0,YEARS,2023-10,2023-10-02,47.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,7.0,YEARS,2023-10,2023-10-02,37.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,3.0,YEARS,2023-10,2023-10-16,47.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,10.0,YEARS,2023-10,2023-10-16,34.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2023,2023-11-01,BOND,30.0,YEARS,2023-10,2023-10-16,20.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2023,2023-11-01,BOND,20.0,YEARS,2023-10,2023-10-31,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2023,2023-11-01,TIPS,5.0,YEARS,2023-10,2023-10-31,23.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,2.0,YEARS,2023-10,2023-10-31,49.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,FRN,2.0,YEARS,2023-10,2023-10-31,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,5.0,YEARS,2023-10,2023-10-31,50.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,7.0,YEARS,2023-10,2023-10-31,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,3.0,YEARS,2023-11,2023-11-15,50.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,10.0,YEARS,2023-11,2023-11-15,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,BOND,30.0,YEARS,2023-11,2023-11-15,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,FRN,2.0,YEARS,2023-11,2023-11-24,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2023,2023-11-01,BOND,20.0,YEARS,2023-11,2023-11-30,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,TIPS,10.0,YEARS,2023-11,2023-11-30,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2023,2023-11-01,NOTE,2.0,YEARS,2023-11,2023-11-30,52.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,5.0,YEARS,2023-11,2023-11-30,53.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,7.0,YEARS,2023-11,2023-11-30,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,3.0,YEARS,2023-12,2023-12-15,53.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2023,2023-11-01,NOTE,10.0,YEARS,2023-12,2023-12-15,37.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2023,2023-11-01,BOND,30.0,YEARS,2023-12,2023-12-15,23.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2023,2023-11-01,TIPS,5.0,YEARS,2023-12,2023-12-29,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2023,2023-11-01,FRN,2.0,YEARS,2023-12,2023-12-29,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2023,2023-08-02,BILL,,,,,554.55,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q3 2023,2023-08-02,NOTE,3.0,YEARS,2023-07,2023-07-17,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,NOTE,10.0,YEARS,2023-07,2023-07-17,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2023,2023-08-02,BOND,30.0,YEARS,2023-07,2023-07-17,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2023,2023-08-02,TIPS,10.0,YEARS,2023-07,2023-07-31,17.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,BOND,20.0,YEARS,2023-07,2023-07-31,12.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2023,2023-08-02,NOTE,2.0,YEARS,2023-07,2023-07-31,42.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,FRN,2.0,YEARS,2023-07,2023-07-31,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,NOTE,5.0,YEARS,2023-07,2023-07-31,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,NOTE,3.0,YEARS,2023-08,2023-08-15,42.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,NOTE,10.0,YEARS,2023-08,2023-08-15,37.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,BOND,30.0,YEARS,2023-08,2023-08-15,23.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,FRN,2.0,YEARS,2023-08,2023-08-25,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2023,2023-08-02,TIPS,30.0,YEARS,2023-08,2023-08-31,8.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2023,2023-08-02,BOND,20.0,YEARS,2023-08,2023-08-31,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,NOTE,2.0,YEARS,2023-08,2023-08-31,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,NOTE,5.0,YEARS,2023-08,2023-08-31,45.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,NOTE,7.0,YEARS,2023-08,2023-08-31,36.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,NOTE,3.0,YEARS,2023-09,2023-09-15,44.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2023,2023-08-02,NOTE,10.0,YEARS,2023-09,2023-09-15,34.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2023,2023-08-02,BOND,30.0,YEARS,2023-09,2023-09-15,20.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2023,2023-08-02,TIPS,10.0,YEARS,2023-09,2023-09-29,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2023,2023-08-02,FRN,2.0,YEARS,2023-09,2023-09-29,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2023,2023-05-03,BILL,,,,,28.29,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q2 2023,2023-05-03,NOTE,3.0,YEARS,2023-04,2023-04-17,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,NOTE,10.0,YEARS,2023-04,2023-04-17,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2023,2023-05-03,BOND,30.0,YEARS,2023-04,2023-04-17,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2023,2023-05-03,TIPS,5.0,YEARS,2023-04,2023-04-28,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,BOND,20.0,YEARS,2023-05,2023-05-01,12.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2023,2023-05-03,NOTE,2.0,YEARS,2023-05,2023-05-01,42.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,FRN,2.0,YEARS,2023-05,2023-05-01,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,NOTE,5.0,YEARS,2023-05,2023-05-01,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,NOTE,3.0,YEARS,2023-05,2023-05-15,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,NOTE,10.0,YEARS,2023-05,2023-05-15,35.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,BOND,30.0,YEARS,2023-05,2023-05-15,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,FRN,2.0,YEARS,2023-05,2023-05-26,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2023,2023-05-03,TIPS,10.0,YEARS,2023-05,2023-05-31,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2023,2023-05-03,BOND,20.0,YEARS,2023-05,2023-05-31,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,NOTE,2.0,YEARS,2023-05,2023-05-31,42.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,NOTE,5.0,YEARS,2023-05,2023-05-31,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,NOTE,7.0,YEARS,2023-05,2023-05-31,35.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,NOTE,3.0,YEARS,2023-06,2023-06-15,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,NOTE,10.0,YEARS,2023-06,2023-06-15,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2023,2023-05-03,BOND,30.0,YEARS,2023-06,2023-06-15,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2023,2023-05-03,TIPS,5.0,YEARS,2023-06,2023-06-30,20.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2023,2023-05-03,BOND,20.0,YEARS,2023-06,2023-06-30,12.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2023,2023-05-03,NOTE,2.0,YEARS,2023-06,2023-06-30,42.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,FRN,2.0,YEARS,2023-06,2023-06-30,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2023,2023-05-03,NOTE,5.0,YEARS,2023-06,2023-06-30,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2023,2023-05-03,NOTE,7.0,YEARS,2023-06,2023-06-30,35.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,BILL,,,,,300.71,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q1 2023,2023-02-01,BOND,20.0,YEARS,2023-01,2023-01-03,12.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2023,2023-02-01,NOTE,2.0,YEARS,2023-01,2023-01-03,42.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,5.0,YEARS,2023-01,2023-01-03,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,7.0,YEARS,2023-01,2023-01-03,35.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,3.0,YEARS,2023-01,2023-01-17,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,10.0,YEARS,2023-01,2023-01-17,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2023,2023-02-01,BOND,30.0,YEARS,2023-01,2023-01-17,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2023,2023-02-01,BOND,20.0,YEARS,2023-01,2023-01-31,12.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2023,2023-02-01,TIPS,10.0,YEARS,2023-01,2023-01-31,17.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,2.0,YEARS,2023-01,2023-01-31,42.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,FRN,2.0,YEARS,2023-01,2023-01-31,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,5.0,YEARS,2023-01,2023-01-31,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,3.0,YEARS,2023-02,2023-02-15,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,10.0,YEARS,2023-02,2023-02-15,35.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,BOND,30.0,YEARS,2023-02,2023-02-15,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,FRN,2.0,YEARS,2023-02,2023-02-24,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2023,2023-02-01,BOND,20.0,YEARS,2023-02,2023-02-28,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,TIPS,30.0,YEARS,2023-02,2023-02-28,9.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,2.0,YEARS,2023-02,2023-02-28,42.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,5.0,YEARS,2023-02,2023-02-28,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,7.0,YEARS,2023-02,2023-02-28,35.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,3.0,YEARS,2023-03,2023-03-15,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,10.0,YEARS,2023-03,2023-03-15,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2023,2023-02-01,BOND,30.0,YEARS,2023-03,2023-03-15,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2023,2023-02-01,BOND,20.0,YEARS,2023-03,2023-03-31,12.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2023,2023-02-01,TIPS,10.0,YEARS,2023-03,2023-03-31,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2023,2023-02-01,NOTE,2.0,YEARS,2023-03,2023-03-31,42.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,NOTE,5.0,YEARS,2023-03,2023-03-31,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2023,2023-02-01,FRN,2.0,YEARS,2023-03,2023-03-31,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2023,2023-02-01,NOTE,7.0,YEARS,2023-03,2023-03-31,35.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2022,2022-11-02,BILL,,,,,99.9,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q4 2022,2022-11-02,TIPS,5.0,YEARS,2022-10,2022-10-31,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2022,2022-11-02,FRN,2.0,YEARS,2022-10,2022-10-31,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2022,2022-11-02,NOTE,3.0,YEARS,2022-11,2022-11-15,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2022,2022-11-02,NOTE,10.0,YEARS,2022-11,2022-11-15,35.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2022,2022-11-02,BOND,30.0,YEARS,2022-11,2022-11-15,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2022,2022-11-02,FRN,2.0,YEARS,2022-11,2022-11-25,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2022,2022-11-02,BOND,20.0,YEARS,2022-11,2022-11-30,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2022,2022-11-02,TIPS,10.0,YEARS,2022-11,2022-11-30,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2022,2022-11-02,NOTE,2.0,YEARS,2022-11,2022-11-30,42.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2022,2022-11-02,NOTE,5.0,YEARS,2022-11,2022-11-30,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2022,2022-11-02,NOTE,7.0,YEARS,2022-11,2022-11-30,35.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2022,2022-11-02,NOTE,3.0,YEARS,2022-12,2022-12-15,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2022,2022-11-02,NOTE,10.0,YEARS,2022-12,2022-12-15,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2022,2022-11-02,BOND,30.0,YEARS,2022-12,2022-12-15,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2022,2022-11-02,TIPS,5.0,YEARS,2022-12,2022-12-30,19.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2022,2022-11-02,FRN,2.0,YEARS,2022-12,2022-12-30,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2022,2022-08-03,BILL,,,,,-153.16,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q3 2022,2022-08-03,TIPS,10.0,YEARS,2022-07,2022-07-29,17.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,NOTE,3.0,YEARS,2022-08,2022-08-15,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,NOTE,10.0,YEARS,2022-08,2022-08-15,36.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,BOND,30.0,YEARS,2022-08,2022-08-15,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,FRN,2.0,YEARS,2022-08,2022-08-26,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2022,2022-08-03,BOND,20.0,YEARS,2022-08,2022-08-31,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,TIPS,30.0,YEARS,2022-08,2022-08-31,8.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2022,2022-08-03,NOTE,2.0,YEARS,2022-08,2022-08-31,45.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,NOTE,5.0,YEARS,2022-08,2022-08-31,46.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,NOTE,7.0,YEARS,2022-08,2022-08-31,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,NOTE,3.0,YEARS,2022-09,2022-09-15,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,NOTE,10.0,YEARS,2022-09,2022-09-15,33.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2022,2022-08-03,BOND,30.0,YEARS,2022-09,2022-09-15,19.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2022,2022-08-03,BOND,20.0,YEARS,2022-09,2022-09-30,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,TIPS,10.0,YEARS,2022-09,2022-09-30,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2022,2022-08-03,NOTE,2.0,YEARS,2022-09,2022-09-30,45.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,FRN,2.0,YEARS,2022-09,2022-09-30,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2022,2022-08-03,NOTE,5.0,YEARS,2022-09,2022-09-30,46.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2022,2022-08-03,NOTE,7.0,YEARS,2022-09,2022-09-30,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2022,2022-05-04,BILL,,,,,-358.22,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q2 2022,2022-05-04,TIPS,5.0,YEARS,2022-04,2022-04-29,20.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2022,2022-05-04,NOTE,3.0,YEARS,2022-05,2022-05-16,46.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2022,2022-05-04,FRN,2.0,YEARS,2022-05,2022-05-27,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2022,2022-05-04,TIPS,10.0,YEARS,2022-05,2022-05-31,14.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2022,2022-05-04,NOTE,2.0,YEARS,2022-05,2022-05-31,48.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2022,2022-05-04,NOTE,5.0,YEARS,2022-05,2022-05-31,49.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2022,2022-05-04,NOTE,3.0,YEARS,2022-06,2022-06-15,46.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2022,2022-05-04,FRN,2.0,YEARS,2022-06,2022-06-24,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2022,2022-05-04,TIPS,5.0,YEARS,2022-06,2022-06-30,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2022,2022-05-04,NOTE,2.0,YEARS,2022-06,2022-06-30,48.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2022,2022-05-04,NOTE,5.0,YEARS,2022-06,2022-06-30,49.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2022,2022-02-02,BILL,,,,,-30.82,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q1 2022,2022-02-02,TIPS,10.0,YEARS,2022-01,2022-01-31,17.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2022,2022-02-02,TIPS,30.0,YEARS,2022-02,2022-02-28,9.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2022,2022-02-02,TIPS,10.0,YEARS,2022-03,2022-03-31,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2021,2021-11-03,BILL,,,,,70.76,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q4 2021,2021-11-03,NOTE,3.0,YEARS,2021-10,2021-10-15,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2021,2021-11-03,NOTE,10.0,YEARS,2021-10,2021-10-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2021,2021-11-03,BOND,30.0,YEARS,2021-10,2021-10-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2021,2021-11-03,TIPS,5.0,YEARS,2021-10,2021-10-29,19.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2021,2021-11-03,BOND,20.0,YEARS,2021-11,2021-11-01,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2021,2021-11-03,NOTE,2.0,YEARS,2021-11,2021-11-01,60.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2021,2021-11-03,FRN,2.0,YEARS,2021-11,2021-11-01,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2021,2021-11-03,NOTE,5.0,YEARS,2021-11,2021-11-01,61.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2021,2021-11-03,NOTE,7.0,YEARS,2021-11,2021-11-01,62.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2021,2021-11-03,FRN,2.0,YEARS,2021-11,2021-11-26,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2021,2021-11-03,TIPS,10.0,YEARS,2021-11,2021-11-30,14.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2021,2021-11-03,TIPS,5.0,YEARS,2021-12,2021-12-31,17.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2021,2021-11-03,FRN,2.0,YEARS,2021-12,2021-12-31,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2021,2021-08-04,BILL,,,,,157.88,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q3 2021,2021-08-04,NOTE,3.0,YEARS,2021-07,2021-07-15,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,10.0,YEARS,2021-07,2021-07-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2021,2021-08-04,BOND,30.0,YEARS,2021-07,2021-07-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2021,2021-08-04,TIPS,10.0,YEARS,2021-07,2021-07-30,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,BOND,20.0,YEARS,2021-08,2021-08-02,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2021,2021-08-04,NOTE,2.0,YEARS,2021-08,2021-08-02,60.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,FRN,2.0,YEARS,2021-08,2021-08-02,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,5.0,YEARS,2021-08,2021-08-02,61.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,7.0,YEARS,2021-08,2021-08-02,62.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,3.0,YEARS,2021-08,2021-08-16,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,10.0,YEARS,2021-08,2021-08-16,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,BOND,30.0,YEARS,2021-08,2021-08-16,27.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,FRN,2.0,YEARS,2021-08,2021-08-27,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2021,2021-08-04,TIPS,30.0,YEARS,2021-08,2021-08-31,8.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2021,2021-08-04,BOND,20.0,YEARS,2021-08,2021-08-31,27.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,2.0,YEARS,2021-08,2021-08-31,60.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,5.0,YEARS,2021-08,2021-08-31,61.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,7.0,YEARS,2021-08,2021-08-31,62.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,3.0,YEARS,2021-09,2021-09-15,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,10.0,YEARS,2021-09,2021-09-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2021,2021-08-04,BOND,30.0,YEARS,2021-09,2021-09-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2021,2021-08-04,FRN,2.0,YEARS,2021-09,2021-09-24,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2021,2021-08-04,BOND,20.0,YEARS,2021-09,2021-09-30,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2021,2021-08-04,TIPS,10.0,YEARS,2021-09,2021-09-30,14.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2021,2021-08-04,NOTE,2.0,YEARS,2021-09,2021-09-30,60.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,5.0,YEARS,2021-09,2021-09-30,61.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2021,2021-08-04,NOTE,7.0,YEARS,2021-09,2021-09-30,62.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,BILL,,,,,-615.56,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q2 2021,2021-05-05,NOTE,3.0,YEARS,2021-04,2021-04-15,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,10.0,YEARS,2021-04,2021-04-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2021,2021-05-05,BOND,30.0,YEARS,2021-04,2021-04-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2021,2021-05-05,BOND,20.0,YEARS,2021-04,2021-04-30,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2021,2021-05-05,TIPS,5.0,YEARS,2021-04,2021-04-30,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,2.0,YEARS,2021-04,2021-04-30,60.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,FRN,2.0,YEARS,2021-04,2021-04-30,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,5.0,YEARS,2021-04,2021-04-30,61.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,7.0,YEARS,2021-04,2021-04-30,62.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,3.0,YEARS,2021-05,2021-05-17,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,10.0,YEARS,2021-05,2021-05-17,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,BOND,30.0,YEARS,2021-05,2021-05-17,27.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,TIPS,10.0,YEARS,2021-05,2021-05-28,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2021,2021-05-05,FRN,2.0,YEARS,2021-05,2021-05-28,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2021,2021-05-05,BOND,20.0,YEARS,2021-06,2021-06-01,27.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,2.0,YEARS,2021-06,2021-06-01,60.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,5.0,YEARS,2021-06,2021-06-01,61.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,7.0,YEARS,2021-06,2021-06-01,62.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,3.0,YEARS,2021-06,2021-06-15,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,10.0,YEARS,2021-06,2021-06-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2021,2021-05-05,BOND,30.0,YEARS,2021-06,2021-06-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2021,2021-05-05,FRN,2.0,YEARS,2021-06,2021-06-25,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2021,2021-05-05,BOND,20.0,YEARS,2021-06,2021-06-30,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2021,2021-05-05,TIPS,5.0,YEARS,2021-06,2021-06-30,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2021,2021-05-05,NOTE,2.0,YEARS,2021-06,2021-06-30,60.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,5.0,YEARS,2021-06,2021-06-30,61.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2021,2021-05-05,NOTE,7.0,YEARS,2021-06,2021-06-30,62.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,BILL,,,,,435.99,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q1 2021,2021-02-03,NOTE,3.0,YEARS,2021-01,2021-01-15,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,10.0,YEARS,2021-01,2021-01-15,37.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2021,2021-02-03,BOND,30.0,YEARS,2021-01,2021-01-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2021,2021-02-03,TIPS,10.0,YEARS,2021-01,2021-01-29,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,BOND,20.0,YEARS,2021-02,2021-02-01,23.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2021,2021-02-03,NOTE,2.0,YEARS,2021-02,2021-02-01,60.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,5.0,YEARS,2021-02,2021-02-01,61.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,FRN,2.0,YEARS,2021-02,2021-02-01,26.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,7.0,YEARS,2021-02,2021-02-01,59.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,3.0,YEARS,2021-02,2021-02-16,59.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,10.0,YEARS,2021-02,2021-02-16,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,BOND,30.0,YEARS,2021-02,2021-02-16,28.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,TIPS,30.0,YEARS,2021-02,2021-02-26,9.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,FRN,2.0,YEARS,2021-02,2021-02-26,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2021,2021-02-03,BOND,20.0,YEARS,2021-03,2021-03-01,27.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,2.0,YEARS,2021-03,2021-03-01,61.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,5.0,YEARS,2021-03,2021-03-01,62.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,7.0,YEARS,2021-03,2021-03-01,60.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,3.0,YEARS,2021-03,2021-03-15,60.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,10.0,YEARS,2021-03,2021-03-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2021,2021-02-03,BOND,30.0,YEARS,2021-03,2021-03-15,25.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2021,2021-02-03,FRN,2.0,YEARS,2021-03,2021-03-26,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2021,2021-02-03,BOND,20.0,YEARS,2021-03,2021-03-31,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2021,2021-02-03,TIPS,10.0,YEARS,2021-03,2021-03-31,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2021,2021-02-03,NOTE,2.0,YEARS,2021-03,2021-03-31,62.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,5.0,YEARS,2021-03,2021-03-31,63.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2021,2021-02-03,NOTE,7.0,YEARS,2021-03,2021-03-31,61.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,BILL,,,,,587.66,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q4 2020,2020-11-04,NOTE,3.0,YEARS,2020-10,2020-10-15,52.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,NOTE,10.0,YEARS,2020-10,2020-10-15,33.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2020,2020-11-04,BOND,30.0,YEARS,2020-10,2020-10-15,22.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2020,2020-11-04,TIPS,5.0,YEARS,2020-10,2020-10-30,19.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,FRN,2.0,YEARS,2020-11,2020-11-02,25.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,NOTE,2.0,YEARS,2020-11,2020-11-02,54.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,NOTE,5.0,YEARS,2020-11,2020-11-02,55.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,NOTE,7.0,YEARS,2020-11,2020-11-02,53.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,BOND,20.0,YEARS,2020-11,2020-11-02,19.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2020,2020-11-04,NOTE,3.0,YEARS,2020-11,2020-11-16,53.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,NOTE,10.0,YEARS,2020-11,2020-11-16,39.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,BOND,30.0,YEARS,2020-11,2020-11-16,27.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,FRN,2.0,YEARS,2020-11,2020-11-27,23.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2020,2020-11-04,TIPS,10.0,YEARS,2020-11,2020-11-30,12.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2020,2020-11-04,NOTE,2.0,YEARS,2020-11,2020-11-30,55.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,NOTE,5.0,YEARS,2020-11,2020-11-30,56.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,NOTE,7.0,YEARS,2020-11,2020-11-30,54.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,BOND,20.0,YEARS,2020-11,2020-11-30,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,NOTE,3.0,YEARS,2020-12,2020-12-15,54.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,NOTE,10.0,YEARS,2020-12,2020-12-15,36.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2020,2020-11-04,BOND,30.0,YEARS,2020-12,2020-12-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2020,2020-11-04,FRN,2.0,YEARS,2020-12,2020-12-28,23.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2020,2020-11-04,TIPS,5.0,YEARS,2020-12,2020-12-31,17.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2020,2020-11-04,NOTE,2.0,YEARS,2020-12,2020-12-31,56.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,NOTE,5.0,YEARS,2020-12,2020-12-31,57.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,NOTE,7.0,YEARS,2020-12,2020-12-31,55.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2020,2020-11-04,BOND,20.0,YEARS,2020-12,2020-12-31,21.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2020,2020-08-05,BILL,,,,,191.41,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q3 2020,2020-08-05,NOTE,3.0,YEARS,2020-07,2020-07-15,49.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,NOTE,10.0,YEARS,2020-07,2020-07-15,27.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2020,2020-08-05,BOND,30.0,YEARS,2020-07,2020-07-15,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2020,2020-08-05,FRN,2.0,YEARS,2020-07,2020-07-31,25.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,TIPS,10.0,YEARS,2020-07,2020-07-31,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,NOTE,2.0,YEARS,2020-07,2020-07-31,51.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,NOTE,5.0,YEARS,2020-07,2020-07-31,52.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,NOTE,7.0,YEARS,2020-07,2020-07-31,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,BOND,20.0,YEARS,2020-07,2020-07-31,12.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2020,2020-08-05,NOTE,3.0,YEARS,2020-08,2020-08-17,52.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,NOTE,10.0,YEARS,2020-08,2020-08-17,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,BOND,30.0,YEARS,2020-08,2020-08-17,23.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,FRN,2.0,YEARS,2020-08,2020-08-28,23.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2020,2020-08-05,TIPS,30.0,YEARS,2020-08,2020-08-31,8.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2020,2020-08-05,NOTE,2.0,YEARS,2020-08,2020-08-31,54.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,NOTE,5.0,YEARS,2020-08,2020-08-31,55.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,NOTE,7.0,YEARS,2020-08,2020-08-31,43.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,BOND,20.0,YEARS,2020-08,2020-08-31,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,NOTE,3.0,YEARS,2020-09,2020-09-15,55.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,NOTE,10.0,YEARS,2020-09,2020-09-15,29.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2020,2020-08-05,BOND,30.0,YEARS,2020-09,2020-09-15,20.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2020,2020-08-05,FRN,2.0,YEARS,2020-09,2020-09-25,23.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2020,2020-08-05,TIPS,10.0,YEARS,2020-09,2020-09-30,14.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q3 2020,2020-08-05,NOTE,2.0,YEARS,2020-09,2020-09-30,57.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,NOTE,5.0,YEARS,2020-09,2020-09-30,58.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,NOTE,7.0,YEARS,2020-09,2020-09-30,45.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q3 2020,2020-08-05,BOND,20.0,YEARS,2020-09,2020-09-30,13.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2020,2020-05-06,BILL,,,,,-278.35,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q2 2020,2020-05-06,NOTE,3.0,YEARS,2020-04,2020-04-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,10.0,YEARS,2020-04,2020-04-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2020,2020-05-06,FRN,2.0,YEARS,2020-04,2020-04-30,20.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,TIPS,5.0,YEARS,2020-04,2020-04-30,17.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,2.0,YEARS,2020-04,2020-04-30,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,5.0,YEARS,2020-04,2020-04-30,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,7.0,YEARS,2020-04,2020-04-30,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,3.0,YEARS,2020-05,2020-05-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,10.0,YEARS,2020-05,2020-05-15,27.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,BOND,30.0,YEARS,2020-05,2020-05-15,19.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,FRN,2.0,YEARS,2020-05,2020-05-29,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2020,2020-05-06,TIPS,10.0,YEARS,2020-05,2020-05-29,12.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2020,2020-05-06,NOTE,2.0,YEARS,2020-06,2020-06-01,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,5.0,YEARS,2020-06,2020-06-01,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,7.0,YEARS,2020-06,2020-06-01,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,BOND,20.0,YEARS,2020-06,2020-06-01,10.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,3.0,YEARS,2020-06,2020-06-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,10.0,YEARS,2020-06,2020-06-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2020,2020-05-06,BOND,30.0,YEARS,2020-06,2020-06-15,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2020,2020-05-06,FRN,2.0,YEARS,2020-06,2020-06-26,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2020,2020-05-06,TIPS,5.0,YEARS,2020-06,2020-06-30,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q2 2020,2020-05-06,NOTE,2.0,YEARS,2020-06,2020-06-30,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,5.0,YEARS,2020-06,2020-06-30,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,NOTE,7.0,YEARS,2020-06,2020-06-30,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q2 2020,2020-05-06,BOND,20.0,YEARS,2020-06,2020-06-30,8.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,BILL,,,,,153.11,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q1 2020,2020-02-05,NOTE,3.0,YEARS,2020-01,2020-01-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,10.0,YEARS,2020-01,2020-01-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2020,2020-02-05,BOND,30.0,YEARS,2020-01,2020-01-15,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2020,2020-02-05,FRN,2.0,YEARS,2020-01,2020-01-31,20.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,TIPS,10.0,YEARS,2020-01,2020-01-31,14.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,2.0,YEARS,2020-01,2020-01-31,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,5.0,YEARS,2020-01,2020-01-31,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,7.0,YEARS,2020-01,2020-01-31,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,3.0,YEARS,2020-02,2020-02-18,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,10.0,YEARS,2020-02,2020-02-18,27.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,BOND,30.0,YEARS,2020-02,2020-02-18,19.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,FRN,2.0,YEARS,2020-02,2020-02-28,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2020,2020-02-05,TIPS,30.0,YEARS,2020-02,2020-02-28,8.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,2.0,YEARS,2020-03,2020-03-02,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,5.0,YEARS,2020-03,2020-03-02,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,7.0,YEARS,2020-03,2020-03-02,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,3.0,YEARS,2020-03,2020-03-16,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,10.0,YEARS,2020-03,2020-03-16,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2020,2020-02-05,BOND,30.0,YEARS,2020-03,2020-03-16,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2020,2020-02-05,FRN,2.0,YEARS,2020-03,2020-03-27,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2020,2020-02-05,TIPS,10.0,YEARS,2020-03,2020-03-31,12.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q1 2020,2020-02-05,NOTE,2.0,YEARS,2020-03,2020-03-31,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,5.0,YEARS,2020-03,2020-03-31,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q1 2020,2020-02-05,NOTE,7.0,YEARS,2020-03,2020-03-31,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,BILL,,,,,92.79,RECOMMENDATION_FOR_THIS_REFUNDING,Net bills issuance for the quarter (recommended table)
-Q4 2019,2019-10-30,NOTE,3.0,YEARS,2019-10,2019-10-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,10.0,YEARS,2019-10,2019-10-15,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2019,2019-10-30,BOND,30.0,YEARS,2019-10,2019-10-15,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2019,2019-10-30,TIPS,5.0,YEARS,2019-10,2019-10-31,17.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,2.0,YEARS,2019-10,2019-10-31,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,FRN,2.0,YEARS,2019-10,2019-10-31,20.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,5.0,YEARS,2019-10,2019-10-31,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,7.0,YEARS,2019-10,2019-10-31,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,3.0,YEARS,2019-11,2019-11-15,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,10.0,YEARS,2019-11,2019-11-15,27.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,BOND,30.0,YEARS,2019-11,2019-11-15,19.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,TIPS,10.0,YEARS,2019-11,2019-11-29,12.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2019,2019-10-30,FRN,2.0,YEARS,2019-11,2019-11-29,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2019,2019-10-30,NOTE,2.0,YEARS,2019-12,2019-12-02,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,5.0,YEARS,2019-12,2019-12-02,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,7.0,YEARS,2019-12,2019-12-02,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,3.0,YEARS,2019-12,2019-12-16,38.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,10.0,YEARS,2019-12,2019-12-16,24.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2019,2019-10-30,BOND,30.0,YEARS,2019-12,2019-12-16,16.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2019,2019-10-30,FRN,2.0,YEARS,2019-12,2019-12-27,18.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2019,2019-10-30,TIPS,5.0,YEARS,2019-12,2019-12-31,15.0,RECOMMENDATION_FOR_THIS_REFUNDING,Reopening
-Q4 2019,2019-10-30,NOTE,2.0,YEARS,2019-12,2019-12-31,40.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,5.0,YEARS,2019-12,2019-12-31,41.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
-Q4 2019,2019-10-30,NOTE,7.0,YEARS,2019-12,2019-12-31,32.0,RECOMMENDATION_FOR_THIS_REFUNDING,Recommended financing schedule
