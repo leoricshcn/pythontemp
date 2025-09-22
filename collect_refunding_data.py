@@ -1,3 +1,5 @@
+import argparse
+
 import csv
 import io
 import re
@@ -6,7 +8,7 @@ from typing import Dict, Iterable, List, Optional, Tuple
 
 import pdfplumber
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 
 BASE_URL = "https://home.treasury.gov"
 RECOMMENDED_TABLES_URL = (
@@ -17,7 +19,8 @@ OFFICIAL_REMARKS_URL = (
     "https://home.treasury.gov/policy-issues/financing-the-government/"
     "quarterly-refunding/quarterly-refunding-archives/official-remarks-on-quarterly-refunding-by-calendar-year"
 )
-DEFAULT_MAX_QUARTERS = 4
+DEFAULT_MAX_QUARTERS = 23
+
 
 
 def ordinal_to_int(text: str) -> Optional[int]:
@@ -38,45 +41,18 @@ def absolute_url(href: str) -> str:
 
 
 def extract_quarter_links(page_url: str) -> Dict[Tuple[int, int], str]:
-    response = requests.get(page_url, timeout=30)
+    response = requests.get(page_url, timeout=60)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "lxml")
-    table = soup.find(
-        "table",
-        attrs={"aria-label": re.compile(r"Quarter", re.I)},
-    )
-    if not table:
+    tables = soup.find_all("table", attrs={"aria-label": re.compile(r"Quarter", re.I)})
+    if not tables:
         raise RuntimeError("Could not locate the quarter link table on the page.")
     links: Dict[Tuple[int, int], str] = {}
-    current_year: Optional[int] = None
-    for row in table.find_all("tr"):
-        header_cells = row.find_all("th")
-        data_cells = row.find_all("td")
-        if header_cells:
-            for cell in header_cells:
-                text = cell.get_text(strip=True)
-                if text.isdigit():
-                    current_year = int(text)
-                    break
-            else:
-                if (
-                    len(header_cells) == 1
-                    and header_cells[0].has_attr("colspan")
-                    and header_cells[0].get_text(strip=True).isdigit()
-                ):
-                    current_year = int(header_cells[0].get_text(strip=True))
-        if current_year is None:
-            continue
-        if data_cells:
-            cells_to_process = data_cells
-        else:
-            cells_to_process = [cell for cell in header_cells if cell.find("a")]
-        for cell in cells_to_process:
-            text = cell.get_text(strip=True)
-            quarter = ordinal_to_int(text)
-            anchor = cell.find("a")
-            if quarter and anchor and anchor.has_attr("href"):
-                links[quarter_key(current_year, quarter)] = absolute_url(anchor["href"])
+    for table in tables:
+        table_links = _parse_quarter_link_table(table)
+        for key, url in table_links.items():
+            links[key] = url
+
     return links
 
 
@@ -86,6 +62,91 @@ def extract_official_links() -> Dict[Tuple[int, int], str]:
 
 def extract_recommended_links() -> Dict[Tuple[int, int], str]:
     return extract_quarter_links(RECOMMENDED_TABLES_URL)
+
+
+def _quarter_from_label(text: str) -> Optional[int]:
+    if not text:
+        return None
+    match = re.search(r"Q([1-4])\b", text, re.IGNORECASE)
+    if match:
+        return int(match.group(1))
+    value = ordinal_to_int(text)
+    if value is not None and 1 <= value <= 4:
+        return value
+    return None
+
+
+def _determine_quarter_mapping(table: Tag) -> List[Optional[int]]:
+    quarters: List[Optional[int]] = []
+    candidate_rows: List[Tag] = []
+    if table.find("thead"):
+        candidate_rows.extend(table.find("thead").find_all("tr"))
+    if table.find("tbody"):
+        candidate_rows.extend(table.find("tbody").find_all("tr"))
+    else:
+        candidate_rows.extend(table.find_all("tr"))
+    for row in candidate_rows:
+        extracted: List[Optional[int]] = []
+        for cell in row.find_all(["th", "td"]):
+            extracted.append(_quarter_from_label(cell.get_text(" ", strip=True)))
+        extracted = [value for value in extracted if value is not None]
+        if extracted:
+            quarters.extend(extracted)
+            break
+    return quarters
+
+
+def _parse_quarter_link_table(table: Tag) -> Dict[Tuple[int, int], str]:
+    quarter_mapping = _determine_quarter_mapping(table)
+    rows = table.find("tbody").find_all("tr") if table.find("tbody") else table.find_all("tr")
+    links: Dict[Tuple[int, int], str] = {}
+    current_year: Optional[int] = None
+    is_calendar_table = "calendar quarter" in (table.get("aria-label") or "").lower()
+    for row in rows:
+        header_cells = row.find_all("th")
+        for cell in header_cells:
+            year_match = re.search(r"(19|20)\d{2}", cell.get_text())
+            if year_match:
+                current_year = int(year_match.group(0))
+                break
+        if current_year is None:
+            continue
+        data_cells = row.find_all("td")
+        if not data_cells:
+            data_cells = [cell for cell in header_cells if cell.find("a")]
+        if not data_cells:
+            continue
+        for idx, cell in enumerate(data_cells):
+            if idx >= len(quarter_mapping):
+                continue
+            quarter = quarter_mapping[idx]
+            if quarter is None:
+                continue
+            anchors = [a for a in cell.find_all("a") if a.has_attr("href")]
+            if not anchors:
+                continue
+            if is_calendar_table:
+                for anchor in anchors:
+                    anchor_quarter = _quarter_from_label(anchor.get("aria-label") or anchor.get_text(strip=True))
+                    if anchor_quarter is None:
+                        continue
+                    target_year = current_year
+                    if anchor_quarter < quarter:
+                        target_year += 1
+                    links[quarter_key(target_year, anchor_quarter)] = absolute_url(anchor["href"])
+            else:
+                selected_anchor = None
+                for anchor in anchors:
+                    anchor_quarter = _quarter_from_label(anchor.get("aria-label") or anchor.get_text(strip=True))
+                    if anchor_quarter == quarter:
+                        selected_anchor = anchor
+                        break
+                if not selected_anchor and len(anchors) == 1:
+                    selected_anchor = anchors[0]
+                if not selected_anchor:
+                    continue
+                links[quarter_key(current_year, quarter)] = absolute_url(selected_anchor["href"])
+    return links
 
 
 def parse_maturity(security: str) -> Tuple[Optional[float], str]:
@@ -126,14 +187,14 @@ def parse_recommended_pdf(pdf_bytes: bytes, quarter: int, year: int, announcemen
     results: List[Dict[str, object]] = []
     with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
         pages = list(pdf.pages)
-        text = "\n".join(page.extract_text(layout=True) or "" for page in pages)
-        if "Auction 2-Year" in text:
-            results.extend(
-                _parse_matrix_recommended_pages(
-                    pages, format_quarter(year, quarter), announcement_date
-                )
-            )
+        matrix_entries = _parse_matrix_recommended_pages(
+            pages, format_quarter(year, quarter), announcement_date
+        )
+        if matrix_entries:
+            results.extend(matrix_entries)
             return results
+        text = "\n".join(page.extract_text(layout=True) or "" for page in pages)
+
     lines = [line.strip() for line in text.splitlines() if line.strip()]
     pattern = re.compile(
         r"^(?P<security>[A-Za-z0-9/\-\(\)\s]+?)\s+"
@@ -331,14 +392,16 @@ def collect_data(max_quarters: int = DEFAULT_MAX_QUARTERS) -> List[Dict[str, obj
     session = requests.Session()
     all_entries: List[Dict[str, object]] = []
     for year, quarter in selected_quarters:
+        quarter_label = format_quarter(year, quarter)
+        print(f"Fetching data for {quarter_label}...")
         official_url = official_links[(year, quarter)]
         recommended_url = recommended_links[(year, quarter)]
-        official_resp = session.get(official_url, timeout=30)
+        official_resp = session.get(official_url, timeout=60)
         official_resp.raise_for_status()
         announcement_date, table_entries = parse_official_article(official_resp.text, year, quarter)
         all_entries.extend(table_entries)
 
-        recommended_resp = session.get(recommended_url, timeout=30)
+        recommended_resp = session.get(recommended_url, timeout=60)
         recommended_resp.raise_for_status()
         pdf_entries = parse_recommended_pdf(recommended_resp.content, quarter, year, announcement_date)
         all_entries.extend(pdf_entries)
@@ -366,9 +429,27 @@ def write_csv(entries: Iterable[Dict[str, object]], path: str) -> None:
 
 
 def main() -> None:
-    entries = collect_data()
-    write_csv(entries, "refunding_data.csv")
-    print(f"Wrote {len(entries)} rows to refunding_data.csv")
+    parser = argparse.ArgumentParser(description="Collect Treasury refunding data")
+    parser.add_argument(
+        "--max-quarters",
+        type=int,
+        default=DEFAULT_MAX_QUARTERS,
+        help=(
+            "Number of most recent quarters to retrieve that have both official remarks "
+            "and TBAC recommended tables"
+        ),
+    )
+    parser.add_argument(
+        "--output",
+        default="refunding_data.csv",
+        help="Destination CSV file path",
+    )
+    args = parser.parse_args()
+
+    entries = collect_data(max_quarters=args.max_quarters)
+    write_csv(entries, args.output)
+    print(f"Wrote {len(entries)} rows to {args.output}")
+
 
 
 if __name__ == "__main__":
